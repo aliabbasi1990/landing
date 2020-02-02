@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/code_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="D-00.00-Home" transform="translate(-684.000000, -2212.000000)" fill="#004E85" fill-rule="nonzero">
+            <g id="Section-4" transform="translate(200.000000, 2011.000000)">
+                <g id="Element/Card_Button" transform="translate(355.000000, 161.000000)">
+                    <g id="icon/code" transform="translate(129.000000, 40.000000)">
+                        <path d="M26.1,47.7 L14.4,36 L26.1,24.3 C27.27,23.13 27.27,21.27 26.1,20.1 C25.545439,19.5385559 24.7891498,19.2225548 24,19.2225548 C23.2108502,19.2225548 22.454561,19.5385559 21.9,20.1 L8.13,33.87 C6.96,35.04 6.96,36.93 8.13,38.1 L21.9,51.9 C23.07,53.07 24.93,53.07 26.1,51.9 C27.27,50.73 27.27,48.87 26.1,47.7 Z M45.9,47.7 L57.6,36 L45.9,24.3 C45.3385559,23.745439 45.0225548,22.9891498 45.0225548,22.2 C45.0225548,21.4108502 45.3385559,20.654561 45.9,20.1 C47.07,18.93 48.93,18.93 50.1,20.1 L63.87,33.87 C65.04,35.04 65.04,36.93 63.87,38.1 L50.1,51.9 C48.93,53.07 47.07,53.07 45.9,51.9 C45.3385559,51.345439 45.0225548,50.5891498 45.0225548,49.8 C45.0225548,49.0108502 45.3385559,48.254561 45.9,47.7 Z" id="icon/action/code_24px"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
