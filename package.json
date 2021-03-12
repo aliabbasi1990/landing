@@ -43,7 +43,7 @@
     "react": "^16.4.0",
     "react-advance-jalaali-datepicker": "^1.0.0",
     "react-date-picker": "^7.0.0",
-    "react-dev-utils": "^4.2.1",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.2.0",
     "react-helmet": "^5.2.0",
     "react-masonry-css": "^1.0.11",
