@@ -119,7 +119,7 @@
   "devDependencies": {
     "flow-bin": "0.59.0",
     "i18n-webpack-plugin": "^1.0.0",
-    "node-sass": "^4.7.2",
+    "node-sass": "^7.0.0",
     "sass-loader": "^6.0.6"
   }
 }
