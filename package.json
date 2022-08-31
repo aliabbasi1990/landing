@@ -31,7 +31,7 @@
     "is-utf8": "^0.2.1",
     "jest": "20.0.4",
     "moment": "^2.12.1",
-    "moment-timezone": "^0.5.14",
+    "moment-timezone": "^0.5.35",
     "object-assign": "4.1.1",
     "postcss-flexbugs-fixes": "3.2.0",
     "postcss-loader": "2.0.8",
